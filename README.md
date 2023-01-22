@@ -13,4 +13,4 @@
 - [관계형/비관계형 데이터베이스](./database/database.md)
 
 ### Knowledge
-- [컴파일러 언어와 인터프리터 언어](./javascript/compilerInterpreter.md)
+- [컴파일러 언어와 인터프리터 언어](knowledge/compilerInterpreter.md)
