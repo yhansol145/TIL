@@ -6,6 +6,7 @@
 - [JWT 대충써도 될까??](web/jwtDanger.md)
 - [동기와 비동기](web/synchronousAsynchronous.md)
 - [OAuth](web/oAuth.md)
+- [RESTful API](web/restApi.md)
 
 ### JavaScript
 - [?. // ?? 문법](./javascript/optionalChaining.md)
