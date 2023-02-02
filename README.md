@@ -2,6 +2,9 @@
 ## Today I Learned
 - 기억보단 기록을
 
+### JAVA
+-[Optional 클래스](java/optional.md)
+
 ### WEB
 - [JWT 대충써도 될까??](web/jwtDanger.md)
 - [동기와 비동기](web/synchronousAsynchronous.md)
