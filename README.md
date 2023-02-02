@@ -3,7 +3,7 @@
 - 기억보단 기록을
 
 ### JAVA
--[Optional 클래스](java/optional.md)
+- [Optional 클래스](java/optional.md)
 
 ### WEB
 - [JWT 대충써도 될까??](web/jwtDanger.md)
