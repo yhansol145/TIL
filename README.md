@@ -10,6 +10,7 @@
 - [동기와 비동기](web/synchronousAsynchronous.md)
 - [OAuth](web/oAuth.md)
 - [RESTful API](web/restApi.md)
+- [HTTPS와 SSL](web/ssl.md)
 
 ### JavaScript
 - [?. // ?? 문법](./javascript/optionalChaining.md)
