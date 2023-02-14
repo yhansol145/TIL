@@ -28,3 +28,7 @@ public class TestController {
 	}
 }
 ```
+
+### Null
+- @PathVariable의 필수속성을 false로 설정하여 선택사항으로 만들 수 있다.
+- @PathVariable(required = false)
