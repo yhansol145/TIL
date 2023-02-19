@@ -1,6 +1,6 @@
 
 ## Today I Learned
-- 기억보단 기록을
+기억보단 기록을
 
 ### JAVA
 - [Optional 클래스](java/optional.md)
