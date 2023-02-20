@@ -19,6 +19,7 @@
 - [타이머](./javascript/interval.md)
 - [undefined와 null의 차이는?](./javascript/nullUndefined.md)
 - [day.js 날짜포맷](./javascript/dayjs.md)
+- [ajax란 무엇인가](./javascript/ajax.md)
 
 ### Node
 - [node에서 스케쥴러 설정하기](node/nodeCron.md)
