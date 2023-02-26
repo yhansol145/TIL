@@ -7,7 +7,7 @@
 
 ### URL 인코딩
 - encodeURI()
-  : ; / = ? & 등을 제외하고 인코딩하는 함수
+  : ; / = ? & 등의 특수문자를 제외하고 인코딩하는 함수
 - encodeURIComponent()
   모든 문자를 인코딩하는 함수
 - decodeURI()
