@@ -16,7 +16,7 @@
 ### JavaScript
 - [?. // ?? 문법](./javascript/optionalChaining.md)
 - [화살표 함수](./javascript/arrowFunction.md)
-- [타이머](./javascript/interval.md)
+- [타이머 interval](./javascript/interval.md)
 - [undefined와 null의 차이는?](./javascript/nullUndefined.md)
 - [day.js 날짜포맷](./javascript/dayjs.md)
 - [ajax란 무엇인가](./javascript/ajax.md)
