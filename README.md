@@ -12,6 +12,7 @@
 - [OAuth](web/oAuth.md)
 - [RESTful API](web/restApi.md)
 - [HTTPS와 SSL](web/ssl.md)
+- [Serverless](web/serverless.md)
 
 ### JavaScript
 - [?. // ?? 문법](./javascript/optionalChaining.md)
