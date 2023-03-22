@@ -18,3 +18,4 @@
 4. 불안정성
    - Apache Commons BeanUtils 라이브러리는 더이상 개발되지 않고 있다. 보안취약점 및 기타 버그에 노출될 가능성이 있다.
    - Spring Framework 혹은 Apache Commons PropertyUtils 라이브러리 사용 권장
+     (https://commons.apache.org/proper/commons-beanutils/apidocs/org/apache/commons/beanutils/PropertyUtils.html)
