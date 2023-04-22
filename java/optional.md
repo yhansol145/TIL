@@ -59,4 +59,16 @@ String name = optional.orElse("null");
 // 값이 없다면 "null" 값을 뽑는다.
 ```
 
+[orElse] - 해당값이 null이던 말던 항상<br>
+```java
+List<String> list = Array.asList("철수", "영희", null);
+System.out.println(Optional.ofNullable(list.get(2)).orElse("없음"));
+```
+
+[orElseGet] - 존재하는 경우 값을 반환하고 그렇지않으면 other를 호출하여 해당 호출결과를 반환
+```java
+List<String> list = Arrays.asList("철수", "영희", "미애", null);
+System.out.println(Optional.ofNullable(list.get(3)).orElseGet(() -> "데이터 없음"));
+```
+
 <b>Optional</b>은 null 또는 값을 감싸서 NPE로부터의 위협에서 벗어나기 위해 등장한 클래스다. Optional은 값을 감싸고 풀고, null일 경우에는 대체하는 함수를 호출하는 등의 오버헤드가 있기 때문에 잘못 사용하게 되면 성능 저하에 문제가 생길 수 있다. 메소드의 반환값이 절대 null이 아니라면 사용을 피하는것이 좋을 것 같다. 즉 결과가 null이 될 수 있고 null에 의해 오류를 발생시킬 가능성이 있을때 사용하는 것이 좋다.
