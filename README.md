@@ -3,6 +3,7 @@
 기억보단 기록을
 
 ### JAVA
+- [생성자주입](java/RequiredArgsConstructor.md)
 - [Optional 클래스](java/optional.md)
 - [@PathVariable](java/pathVariable.md)
 - [Connection Pool](java/connectionPool.md)
