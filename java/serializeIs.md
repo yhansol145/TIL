@@ -1,4 +1,5 @@
-##Serialize
+## Serialize
+
 자바에서 시리얼라이즈는 객체를 일련의 바이트로 변환하여 저장하거나 전송하는 과정을 말한다.<br>
 'java.io.Serializable' 인터페이스 구현 필요<br><br>
 
