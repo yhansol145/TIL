@@ -13,6 +13,9 @@
 - [얕은복사와 깊은복사](java/shallowDeepCopy.md)
 - [serialize&is](java/serializeIs.md)
 
+### JPA
+- [Entity](jpa/entity.md)
+
 ### WEB
 - [JWT 대충써도 될까??](web/jwtDanger.md)
 - [동기와 비동기](web/synchronousAsynchronous.md)
