@@ -35,6 +35,7 @@ OutPutStream 클래스의 생성자를 보면 throws FileNotFoundException을 �
 
 
 > 에러를 던지지 않고 내부적으로 해결하고 싶다면 try/catch를 사용하여 해결하고, 반대로 try/catch로 에러처리를 하지 않는다면 선언부에서 throws를 통해 에러를 던져야 한다.
+<br>
 
 1. 예외를 메소드의 throws를 명시하는 것은 예외를 처리하는 것이 아님
 2. 자신을 호출한 메소드에게 예외를 전달하여 예외처리를 떠맡기는 것
