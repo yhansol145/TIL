@@ -13,6 +13,7 @@
 - [얕은복사와 깊은복사](java/shallowDeepCopy.md)
 - [serialize&is](java/serializeIs.md)
 - [hashSet](java/hashSet.md)
+- [throw / throws 의 차이](java/throwThrows.md)
 
 ### JPA
 - [Entity](jpa/entity.md)
