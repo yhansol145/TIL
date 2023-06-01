@@ -46,6 +46,7 @@
 
 ### Database
 - [관계형/비관계형 데이터베이스](./database/database.md)
+- [Blob & Clob](./database/blobClob.md)
 
 ### Knowledge
 - [컴파일러 언어와 인터프리터 언어](./knowledge/compilerInterpreter.md)
