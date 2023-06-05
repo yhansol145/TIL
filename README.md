@@ -6,6 +6,7 @@
 - [생성자주입](java/RequiredArgsConstructor.md)
 - [Optional 클래스](java/optional.md)
 - [@PathVariable](java/pathVariable.md)
+- [@Valid](java/valid.md)
 - [Connection Pool](java/connectionPool.md)
 - [객체복사](java/copyProperties.md)
 - [Stream!](java/stream.md)
