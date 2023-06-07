@@ -18,6 +18,7 @@
 
 ### JPA
 - [Entity](jpa/entity.md)
+- [Table](jpa/table.md)
 
 ### WEB
 - [JWT 대충써도 될까??](web/jwtDanger.md)
