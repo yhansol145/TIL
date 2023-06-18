@@ -15,6 +15,7 @@
 - [serialize&is](java/serializeIs.md)
 - [hashSet](java/hashSet.md)
 - [throw / throws 의 차이](java/throwThrows.md)
+- [build 패턴](java/builderPattern.md)
 
 ### JPA
 - [Entity](jpa/entity.md)
