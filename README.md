@@ -31,6 +31,7 @@
 - [Serverless](web/serverless.md)
 - [세션 클러스터링이란?](web/sessionClustering.md)
 - [Opener](web/opener.md)
+- [웹 크롤링](web/crawling.md)
 
 ### JavaScript
 - [?. // ?? 문법](./javascript/optionalChaining.md)
