@@ -45,6 +45,8 @@
 - [숫자에 콤마넣기](./javascript/toLocalString.md)
 - [호이스팅](./javascript/hoisting.md)
 
+### TypeScript
+
 ### Node
 - [node에서 스케쥴러 설정하기](node/nodeCron.md)
 - [fetch](node/fetch.md)
