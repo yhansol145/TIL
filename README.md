@@ -44,7 +44,7 @@
 - [정규식을 쉽게](./javascript/verbalExpressions.md)
 - [숫자에 콤마넣기](./javascript/toLocalString.md)
 - [호이스팅](./javascript/hoisting.md)
-- [!!](.javascript/!!.md]
+- [!!](.javascript/!!.md)
 
 ### TypeScript
 
