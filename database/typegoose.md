@@ -26,6 +26,14 @@ class User {
 // 1은 오름차순, -1은 내림차순
 ```
 
+- modelOptions : 모델을 정의할 때 추가적인 옵션을 설정하는데 사용
+```javascript
+@modelOptions({
+    options: { customName: "MyCustomCollection" }, // 콜렉션 이름 지정
+    schemaOptions: { timestamps: true }, // createdAt, updatedAt 필드 추가생성
+})
+```
+
 - getModelForClass : 클래스를 기반으로 모델을 생성하는데 사용
 ```javascript
 class User {
