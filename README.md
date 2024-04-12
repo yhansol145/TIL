@@ -57,6 +57,7 @@
 - [관계형/비관계형 데이터베이스](./database/database.md)
 - [Blob & Clob](./database/blobClob.md)
 - [오라클 분석함수](./database/partitionBy.md)
+- [@typegoose](./database/typegoose.md)
 
 ### Knowledge
 - [컴파일러 언어와 인터프리터 언어](./knowledge/compilerInterpreter.md)
