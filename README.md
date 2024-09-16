@@ -48,6 +48,9 @@
 - [Promise()](./javascript/promise.md)
 
 ### TypeScript
+- [literalType](./typescript/literalType.md)
+- [spreadOperator](./typescript/spreadOperator.md)
+- [ts-ignore](./typescript/ts-ignore.md)
 
 ### Node
 - [node에서 스케쥴러 설정하기](node/nodeCron.md)
