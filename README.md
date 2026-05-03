@@ -2,6 +2,9 @@
 ## Today I Learned
 기억보단 기록을
 
+### AI
+ - [오픈클로](ai/openClaw.md)
+
 ### JAVA
 - [생성자주입](java/RequiredArgsConstructor.md)
 - [Optional 클래스](java/optional.md)
