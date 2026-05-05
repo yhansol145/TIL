@@ -4,6 +4,7 @@
 
 ### AI
  - [오픈클로](ai/openClaw.md)
+ - [AEO](ai/aeo.md)
 
 ### JAVA
 - [생성자주입](java/RequiredArgsConstructor.md)
